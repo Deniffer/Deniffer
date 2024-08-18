@@ -23,8 +23,9 @@ Senior Software Engineer | AI Enthusiast | Web Developer | Problem Solver
     <div>Email: deniffer.001@gmail.com</div>
     <div>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></div>
   </div>
-
 </div>
+
+<div align="center"><img alt="Banner | Deniffer" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
 ## 🧐 About
 
