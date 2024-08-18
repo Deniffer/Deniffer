@@ -1,16 +1,14 @@
 <div align="center"><img alt="Banner | Deniffer" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
-<br></br>
+<br>
 
 # Deniffer Liu 😃
 
 Senior Software Engineer | AI Enthusiast | Web Developer | Problem Solver
 
-<div class="header">
-  <div class="contact-info">
-    <div>Email: deniffer.001@gmail.com</div>
-    <div>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></div>
-  </div>
+<div style="text-align: center;">
+  <p>Email: deniffer.001@gmail.com</p>
+  <p>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></p>
 </div>
 
 ## 🧐 About
@@ -19,20 +17,18 @@ I'm a passionate software engineer with a knack for creating innovative solution
 
 ## 🚀 Experience
 
-<div class="experience-item">
-  <div class="company">Juicy AI</div>
-  <div class="position">Software Engineer</div>
-  <div class="date">August 2023 - June 2024</div>
+<div style="margin-bottom: 20px;">
+  <h3>Juicy AI</h3>
+  <p><strong>Software Engineer</strong> | August 2023 - June 2024</p>
   <ul>
     <li>Led the development of a virtual AI companion website, boosting user engagement by 30%</li>
     <li>Implemented AI-powered conversation systems and scalable backend architectures</li>
   </ul>
 </div>
 
-<div class="experience-item">
-  <div class="company">TikTok Live - ByteDance</div>
-  <div class="position">Software Engineer</div>
-  <div class="date">January 2021 - January 2023</div>
+<div style="margin-bottom: 20px;">
+  <h3>TikTok Live - ByteDance</h3>
+  <p><strong>Software Engineer</strong> | January 2021 - January 2023</p>
   <ul>
     <li>Developed multi-device log synchronization tools and new live streaming features</li>
     <li>Collaborated with cross-functional teams to iterate and improve products</li>
@@ -43,21 +39,21 @@ I'm a passionate software engineer with a knack for creating innovative solution
 
 Talk to me about:
 
-<div class="skills-grid">
-  <div><span class="skill-category">Front-end:</span> React.js, Next.js, HTML5, CSS3, JavaScript (ES6+)</div>
-  <div><span class="skill-category">Back-end:</span> Python, Node.js</div>
-  <div><span class="skill-category">Mobile:</span> Swift, Flutter</div>
-  <div><span class="skill-category">Database:</span> SQL, NoSQL</div>
-  <div><span class="skill-category">DevOps:</span> Git, Docker, CI/CD</div>
-  <div><span class="skill-category">Cloud:</span> AWS, CloudFlare</div>
-  <div><span class="skill-category">AI/ML:</span> NLP, Machine Learning Algorithms</div>
-  <div><span class="skill-category">Concepts:</span> OS, Networking, Algorithms, Data Structures, Design Patterns</div>
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px;">
+  <div><strong>Front-end:</strong> React.js, Next.js, HTML5, CSS3, JavaScript (ES6+)</div>
+  <div><strong>Back-end:</strong> Python, Node.js</div>
+  <div><strong>Mobile:</strong> Swift, Flutter</div>
+  <div><strong>Database:</strong> SQL, NoSQL</div>
+  <div><strong>DevOps:</strong> Git, Docker, CI/CD</div>
+  <div><strong>Cloud:</strong> AWS, CloudFlare</div>
+  <div><strong>AI/ML:</strong> NLP, Machine Learning Algorithms</div>
+  <div><strong>Concepts:</strong> OS, Networking, Algorithms, Data Structures, Design Patterns</div>
 </div>
 
 ## 🚀 Projects
 
-<div class="project-item">
-  <div class="project-name">Juicy AI Platform - Virtual AI Companion</div>
+<div style="margin-bottom: 20px;">
+  <h3>Juicy AI Platform - Virtual AI Companion</h3>
   <ul>
     <li>Led the development of an innovative virtual AI companion platform</li>
     <li>Implemented Next.js SSR for improved SEO and user experience</li>
@@ -65,8 +61,8 @@ Talk to me about:
   </ul>
 </div>
 
-<div class="project-item">
-  <div class="project-name">Lunima-3D - AI-Powered 3D Model Generation Platform</div>
+<div style="margin-bottom: 20px;">
+  <h3>Lunima-3D - AI-Powered 3D Model Generation Platform</h3>
   <ul>
     <li>Developed a platform for instant 2D to 3D model transformation</li>
     <li>Project Link: <a href="https://lumina-3d.com">https://lumina-3d.com</a></li>
