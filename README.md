@@ -1,18 +1,6 @@
-<style>
-  body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 0 auto; padding: 20px; }
-  h1 { color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px; }
-  h2 { color: #3498db; border-bottom: 1px solid #bdc3c7; padding-bottom: 5px; }
-  .header { display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px; }
-  .contact-info { flex: 1; }
-  .profile-image { width: 100px; height: 130px; border-radius: 15%; }
-  .section { margin-bottom: 25px; }
-  .experience-item, .project-item { margin-bottom: 15px; }
-  .company, .project-name { font-weight: bold; color: #2c3e50; }
-  .position, .date { font-style: italic; color: #7f8c8d; }
-  ul { padding-left: 20px; }
-  .skills-grid { display: grid; grid-template-columns: repeat(2, 1fr); gap: 10px; }
-  .skill-category { font-weight: bold; color: #2c3e50; }
-</style>
+<div align="center"><img alt="Banner | Deniffer" src="https://i.imgur.com/34fiEUG.gif" /></div>
+
+<br></br>
 
 # Deniffer Liu 😃
 
@@ -24,8 +12,6 @@ Senior Software Engineer | AI Enthusiast | Web Developer | Problem Solver
     <div>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></div>
   </div>
 </div>
-
-<div align="center"><img alt="Banner | Deniffer" src="https://i.imgur.com/34fiEUG.gif" /></div>
 
 ## 🧐 About
 
