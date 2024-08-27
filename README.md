@@ -6,10 +6,8 @@
 
 Full-Stack Engineer | AI Enthusiast | Web Developer | Problem Solver
 
-<div align="center">
-  <p>Email: deniffer.001@gmail.com</p>
-  <p>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></p>
-</div>
+<p>Email: deniffer.001@gmail.com</p>
+<p>GitHub: <a href="https://github.com/Deniffer">github.com/Deniffer</a></p>
 
 ## 🧐 About
 
